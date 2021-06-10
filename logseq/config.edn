@@ -78,4 +78,5 @@
  :macros {}
 
  :markdown/version 2
- :feature/enable-journals? false}
+ :feature/enable-journals? false
+ :default-home {}}
