@@ -80,3 +80,4 @@
  :markdown/version 2
  :feature/enable-journals? false
  :default-home {:page "地图投影"}}
+ :all-pages-public? true
