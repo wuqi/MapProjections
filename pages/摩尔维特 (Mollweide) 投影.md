@@ -1,6 +1,7 @@
 public:: true
 上一页:: [[克拉斯特抛物线投影]]
 下一页:: [[极/赤道方位等距等面积投影]]
+原文链接:: [Deducing Mollweide's Projection](https://web.archive.org/web/20180630041402/http://progonos.com/furuti/MapProj/Normal/CartHow/HowMoll/howMoll.html)
 
 # 摩尔维特投影推导
 - 虽然面积相等，数学上非常简单，并保持平行间距，但由于过度剪切和子午线拥挤，以前的正弦/桑松-弗拉姆斯蒂德投影在高纬度地区并不完全令人满意。卡斯特的抛物线投影，经线稍微圆一点，但是极点还是尖的。稍微复杂一点的分析就引出了摩尔维特投影。

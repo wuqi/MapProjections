@@ -1,6 +1,7 @@
 public:: true
 上一页:: [[极/赤道方位等距等面积投影]] 
 下一页:: [[埃托夫/汉莫尔/温克尔三重投影]]
+原文链接:: [A Simple Projection plus Two Derived Works](https://web.archive.org/web/20180630041352/http://progonos.com/furuti/MapProj/Normal/CartHow/HowER_W12/howER_W12.html)
 
 -
 # 一个简单的投影加两个衍生作品

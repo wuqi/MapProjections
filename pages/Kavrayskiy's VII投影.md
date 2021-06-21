@@ -1,6 +1,7 @@
 public:: true
 上一页:: [[正轴圆柱投影]]
 下一页:: [[等积正弦投影]]
+原文链接:: [Deducing the Kavrayskiy VII Projection](https://web.archive.org/web/20180701175437/http://www.progonos.com/furuti/MapProj/Normal/CartHow/HowKav7/howKav7.html)
 
 # 推导Kavrayskiy's VII投影
 - 考虑导Kavrayskiy's VII投影，我将其描述为:赤道承影面上为伪圆柱投影，两极为赤道的一半，纬线等间距，子午线120°包含在以地图为中心的圆中。这是什么意思？
