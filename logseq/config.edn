@@ -79,5 +79,6 @@
 
  :markdown/version 2
  :feature/enable-journals? false
- :default-home {:page "地图投影"}}
+ :default-home {:page "地图投影"}
+ :publishing/all-pages-public? true}
  :all-pages-public? true
