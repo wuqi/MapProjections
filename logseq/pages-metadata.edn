@@ -45,7 +45,7 @@
   :block/updated-at 1629642768264}
  {:block/name "有用的地图属性",
   :block/created-at 1629642768265,
-  :block/updated-at 1629642768265}
+  :block/updated-at 1635663675228}
  {:block/name "等距圆柱投影_winkel i ",
   :block/created-at 1629642768264,
   :block/updated-at 1629642768264}
@@ -54,7 +54,7 @@
   :block/updated-at 1629642768265}
  {:block/name "地图投影介绍",
   :block/created-at 1629642768264,
-  :block/updated-at 1629642768264}
+  :block/updated-at 1635652392150}
  {:block/name "等积正弦投影",
   :block/created-at 1629642768265,
   :block/updated-at 1629642768265}
@@ -65,8 +65,8 @@
   :block/created-at 1629642768265,
   :block/updated-at 1629642768265}
  {:block/name "favorites",
-  :block/created-at 1635068416603,
-  :block/updated-at 1635068416603}
+  :block/created-at 1635667978679,
+  :block/updated-at 1635667978679}
  {:block/name "用于打印和折叠的地图",
   :block/created-at 1629642768264,
   :block/updated-at 1635048976457}
@@ -75,7 +75,7 @@
   :block/updated-at 1629642768265}
  {:block/name "制图学基础知识和投影选择",
   :block/created-at 1629642768265,
-  :block/updated-at 1629642768265}
+  :block/updated-at 1635663639056}
  {:block/name "克拉斯特抛物线投影",
   :block/created-at 1629642768264,
   :block/updated-at 1629642768264}
@@ -83,14 +83,14 @@
   :block/created-at 1629642514065,
   :block/updated-at 1635062964056}
  {:block/name "card",
-  :block/created-at 1635068416603,
-  :block/updated-at 1635068416603}
+  :block/created-at 1635667978679,
+  :block/updated-at 1635667978679}
  {:block/name "等角投影",
   :block/created-at 1629642768264,
   :block/updated-at 1629642768264}
  {:block/name "简单的地图背景知识介绍",
   :block/created-at 1629642768264,
-  :block/updated-at 1629642768264}
+  :block/updated-at 1635652442154}
  {:block/name "伪圆锥投影",
   :block/created-at 1629642768264,
   :block/updated-at 1629642768264}
@@ -107,11 +107,14 @@
   :block/created-at 1629642768264,
   :block/updated-at 1629642768264}
  {:block/name "web",
-  :block/created-at 1635068416603,
-  :block/updated-at 1635068416603}
+  :block/created-at 1635667978679,
+  :block/updated-at 1635667978679}
  {:block/name "later",
   :block/created-at 1629642768265,
   :block/updated-at 1629642768265}
+ {:block/name "坐标原点的选择",
+  :block/created-at 1635663605898,
+  :block/updated-at 1635663605930}
  {:block/name "测地线",
   :block/created-at 1629642768264,
   :block/updated-at 1629642768264}
@@ -131,8 +134,8 @@
   :block/created-at 1629642768265,
   :block/updated-at 1629642768265}
  {:block/name "",
-  :block/created-at 1635068416603,
-  :block/updated-at 1635068416603}
+  :block/created-at 1635667978679,
+  :block/updated-at 1635667978679}
  {:block/name "地图投影",
   :block/created-at 1629642768265,
   :block/updated-at 1629642768265}
@@ -205,12 +208,15 @@
  {:block/name "waiting",
   :block/created-at 1629642768265,
   :block/updated-at 1629642768265}
+ {:block/name "不可避免的变形",
+  :block/created-at 1635654099213,
+  :block/updated-at 1635654099254}
  {:block/name "墨卡托",
-  :block/created-at 1635068416603,
-  :block/updated-at 1635068416603}
+  :block/created-at 1635667978679,
+  :block/updated-at 1635667978679}
  {:block/name "toc",
-  :block/created-at 1635068416603,
-  :block/updated-at 1635068416603}
+  :block/created-at 1635667978679,
+  :block/updated-at 1635667978679}
  {:block/name "二十面体",
   :block/created-at 1629642768265,
   :block/updated-at 1629642768265}
